@@ -1,6 +1,6 @@
 Folder Structure
  
-
+Don't forget to add __init__.py in all the folders
 
 Details of directories:
 
